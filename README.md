@@ -1,5 +1,11 @@
 # admin-cloud-plaform-web
 
+admin-cloud-plaform 的前端项目
+
+
+后端链接为：
+> https://github.com/wuydit/Admin-Cloud-Platform
+
 ## Project setup
 ```
 npm install
